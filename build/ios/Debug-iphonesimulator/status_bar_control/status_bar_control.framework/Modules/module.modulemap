@@ -1,0 +1,6 @@
+framework module status_bar_control {
+  umbrella header "status_bar_control-umbrella.h"
+
+  export *
+  module * { export * }
+}
